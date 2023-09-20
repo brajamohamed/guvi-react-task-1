@@ -1,3 +1,5 @@
+import card from "./Card/card";
 const Home = () => {
-  return alert("Hello");
+  return card;
 };
+export default Home;
